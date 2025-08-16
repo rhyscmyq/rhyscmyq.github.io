@@ -55,7 +55,7 @@ education:
   - area: M.Phil. in Data Science and AI
     institution:  Hong Kong University of Science and Technology(Guang Zhou)
     date_start: 2024-08-29
-    date_end: present
+    date_end: 2026-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [ PROF. NAN TANG](https://nantang.github.io/) and [ Assistant Professor. YUYU LUO](https://luoyuyu.vip/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
