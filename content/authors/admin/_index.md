@@ -64,15 +64,15 @@ education:
   - area:  M.Sc. in Systems Engineering and Engineering Management
     institution: Chinese University of Hong Kong (CUHK)
     date_start: 2022-09-01
-    date_end: 2023-10
+    date_end: 2023-10-01
     summary: |
       GPA: 3.625/4, ranking top 5%. 
       IELTS 7.0.
       Silver Award for Outstanding Graduate for postgraduate recommendation without exam.
   - area: B.Mgmt. in International Accounting
     institution: NanKai University
-    date_start: 2016-07
-    date_end: 2012-09
+    date_start: 2016-07-01
+    date_end: 2012-09-01
     summary: |
       GPA: 87.6/100, ranking top 15%, Recipient of the Academic Year Scholarship
       Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra(Barcelona, Spain).
@@ -82,8 +82,8 @@ work:
     company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
     company_logo: ''
-    date_start: 2023-10
-    date_end: 2024-07
+    date_start: 2023-10-01
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
       - Conducted data analysis and prepared reports, aligning with business strategies to drive decision-making.
@@ -93,8 +93,8 @@ work:
     company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
     company_logo: ''
-    date_start: 2022-08
-    date_end: 2019-05
+    date_start: 2022-08-01
+    date_end: 2019-05-01
     summary: |
       Responsibilities include:
       - Independently completed monthly cost accounting and financial analysis.
@@ -105,8 +105,8 @@ work:
     company_name:  NXP Semiconductors Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2019-04
-    date_end: 2016-07
+    date_start: 2019-04-01
+    date_end: 2016-07-01
     summary: |
       Responsibilities include:
       - Managed asset data, reducing tracking errors by 10%.
