@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Qiqi Valerie Duan 段奇琪
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Duan
+last_name: Qiqi
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: student/engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: HKUST(GZ)
+    url: https://www.hkust-gz.edu.cn/zh/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:duanqiqi1114@163.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rhyscmyq
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -48,64 +48,72 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - LLM
+  - Agent
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Phil. in Data Science and AI
+    institution:  Hong Kong University of Science and Technology(Guang Zhou)
+    date_start: 2024-08-29
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [ PROF. NAN TANG](https://nantang.github.io/) and [ Assistant Professor. YUYU LUO](https://luoyuyu.vip/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:  M.Sc. in Systems Engineering and Engineering Management
+    institution: Chinese University of Hong Kong (CUHK)
+    date_start: 2022-09-01
+    date_end: 2023-10
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.625/4, ranking top 5%. 
+      IELTS 7.0.
+      Silver Award for Outstanding Graduate for postgraduate recommendation without exam.
+  - area: B.Mgmt. in International Accounting
+    institution: NanKai University
+    date_start: 2016-07
+    date_end: 2012-09
+    summary: |
+      GPA: 87.6/100, ranking top 15%, Recipient of the Academic Year Scholarship
+      Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra(Barcelona, Spain).
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position:  Data Scientist
+    company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-10
+    date_end: 2024-07
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted data analysis and prepared reports, aligning with business strategies to drive decision-making.
+      - Conducted data analysis to align business strategies and improve decision-making, contributing to the development of
+        user-friendly business intelligence dashboards.
+  - position:  Financial Accountant, Product Manager
+    company_name: Du Xiaoman Financial(度小满金融)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08
+    date_end: 2019-05
+    summary: |
+      Responsibilities include:
+      - Independently completed monthly cost accounting and financial analysis.
+      - Led SOP development for corporate payments, improving efficiency by 30%.
+      - Assisted in designing Excel templates that simplified daily accounting workflows, saving 50% of inspection time.
+      - Deployed a new financial system, enhancing cross-functional collaboration.
+  - position:  Accountant
+    company_name:  NXP Semiconductors Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-04
+    date_end: 2016-07
+    summary: |
+      Responsibilities include:
+      - Managed asset data, reducing tracking errors by 10%.
+      - Identified budgeting improvements, increasing forecasting accuracy.
+      - Assisted in designing Excel templates that simplified daily accounting workflows, saving 50% of inspection time.
+      - Deployed a new financial system, enhancing cross-functional collaboration.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,15 +122,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -143,44 +148,16 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at The Hong Kong University of Science and Technology (Guangzhou). With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
