@@ -1,14 +1,13 @@
 ---
 title: "Automatic Modeling and Analysis of Students’ Problem-Solving Handwriting Trajectories"
 authors:
-# - admin
-# - ''
-- Sheng, Zhonghua and Shen, Shuyu and Shen, Leixian and Duan, Qiqi and Tang, Nan and Hui, Pan and Qu, Huamin and Luo, Yuyu
-date: "2025-04-07T00:00:00Z"
-doi: ""
+  # - admin
+  - Sheng, Zhonghua and Shen, Shuyu and Shen, Leixian and Duan, Qiqi and Tang, Nan and Hui, Pan and Qu, Huamin and Luo, Yuyu
+# date: "2025-04-07T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,9 +28,9 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: ''
+# links:
+# - name: Custom Link
+#   url: ''
 # url_pdf: ''
 # url_code: ''
 # url_dataset: '#'
