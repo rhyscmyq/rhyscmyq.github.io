@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiqi Valerie Duan 段奇琪
+title: Qiqi Duan 段奇琪
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:duanqiqi1114@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/rhyscmyq
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -52,27 +52,27 @@ interests:
   - Agent
 
 education:
-  - area: M.Phil. in Data Science and AI
-    institution:  Hong Kong University of Science and Technology(Guang Zhou)
+  - area: M.Phil. in Data Science and Analytics
+    institution:  The Hong Kong University of Science and Technology(Guang Zhou) 
     date_start: 2024-08-29
     date_end: 2026-07-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [ PROF. NAN TANG](https://nantang.github.io/) and [ Assistant Professor. YUYU LUO](https://luoyuyu.vip/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [ PROF. NAN TANG](https://nantang.github.io/) and [ Assistant Professor. YUYU LUO](https://luoyuyu.vip/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area:  M.Sc. in Systems Engineering and Engineering Management
-    institution: Chinese University of Hong Kong (CUHK)
+    institution: The Chinese University of Hong Kong (CUHK)
     date_start: 2022-09-01
-    date_end: 2023-10-01
+    date_end: 2023-10-15
     summary: |
       GPA: 3.625/4, ranking top 5%. 
       IELTS 7.0.
       Silver Award for Outstanding Graduate for postgraduate recommendation without exam.
   - area: B.Mgmt. in International Accounting
     institution: NanKai University
-    date_start: 2016-07-01
-    date_end: 2012-09-01
+    date_start: 2012-09-01
+    date_end: 2016-07-01
     summary: |
       GPA: 87.6/100, ranking top 15%, Recipient of the Academic Year Scholarship
       Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra(Barcelona, Spain).
@@ -160,4 +160,4 @@ languages:
 
 ## About Me
 
-I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at The Hong Kong University of Science and Technology (Guangzhou). With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
+I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of the amazing Professors Nan TANG and Yuyu LUO. With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
