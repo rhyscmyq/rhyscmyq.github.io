@@ -6,7 +6,7 @@ title: 'Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Inv
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Li, Changlun and Shi, Yao and Wang, Chen and Duan, Qiqi and Ruan, Runke and Huang, Weijie and Long, Haonan and Huang, Lijun and Luo, Yuyu and Tang, Nan
 
 # Author notes (optional)
 # author_notes:
@@ -17,7 +17,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv preprint arXiv:2505.11065*
-publication_short: In *ICW*
+publication_short: In *arXiv*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

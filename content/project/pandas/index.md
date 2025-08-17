@@ -10,4 +10,6 @@ tags:
 
 We evaluate the trading capability of LLM across various financial markets given a unified environment. The LLM shall ingest external information, drive a multi-agent system, and make trading decisions. The LLM performance will be presented in a trading arena view across various dimensions.
 
-more
+
+
+<!--more-->
