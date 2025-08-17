@@ -2,7 +2,8 @@
 title: "Automatic Modeling and Analysis of Students’ Problem-Solving Handwriting Trajectories"
 authors:
 # - admin
-- ''
+# - ''
+- Sheng, Zhonghua and Shen, Shuyu and Shen, Leixian and Duan, Qiqi and Tang, Nan and Hui, Pan and Qu, Huamin and Luo, Yuyu
 date: "2025-04-07T00:00:00Z"
 doi: ""
 

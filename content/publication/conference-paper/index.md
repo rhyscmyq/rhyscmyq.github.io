@@ -5,7 +5,7 @@ title: 'Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Inv
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  # - admin
   - Li, Changlun and Shi, Yao and Wang, Chen and Duan, Qiqi and Ruan, Runke and Huang, Weijie and Long, Haonan and Huang, Lijun and Luo, Yuyu and Tang, Nan
 
 # Author notes (optional)
