@@ -3,11 +3,10 @@ name: Deploy website to GitHub Pages
 env:
   WC_HUGO_VERSION: '0.148.2'
 
-on:
-  # Trigger the workflow every time you push to the `main` branch
+  on:
   push:
-    branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
+    branches:
+      - main
   workflow_dispatch:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
