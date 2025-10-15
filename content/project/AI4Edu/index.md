@@ -6,6 +6,10 @@ tags:
   - MLLM
   - Education
   - Data Analysis
+links:
+  - name: Paper
+    url: '/publication/handwriting'
+    icon: file-lines
 ---
 
 This project breaks new ground in understanding how students solve problems by analyzing their handwriting trajectories using multimodal large language models (MLLM). By capturing and analyzing fine-grained details of students' writing processes, we've uncovered fascinating insights into problem-solving behaviors and learning patterns.
