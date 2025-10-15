@@ -6,30 +6,23 @@ type: landing
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
-  - block: resume-experience
+  - block: experience
     content:
-      username: admin
+      title: Work Experience
+      # Note: `username` refers to the user's folder name in `content/experience/`
+      file: experience/work
     design:
       # Hugo date format
       date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
+  - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
+      file: experience/skills
     design:
       show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
+  - block: languages
     content:
       title: Languages
-      username: admin
+      file: experience/languages
 ---
