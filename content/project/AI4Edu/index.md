@@ -8,12 +8,15 @@ tags:
   - Data Analysis
 links:
   - name: Paper
-    url: '/publication/handwriting'
+    url: '/publication/aied'
+    icon: file-lines
+  - name: Manuscript (to appear)
+    url: '/publication/aied2006'
     icon: file-lines
 ---
 
 This project breaks new ground in understanding how students solve problems by analyzing their handwriting trajectories using multimodal large language models (MLLM). By capturing and analyzing fine-grained details of students' writing processes, we've uncovered fascinating insights into problem-solving behaviors and learning patterns.
 
-Our innovative approach to modeling handwriting trajectories has been recognized with acceptance at AIED 2025, while our deeper analysis of problem-solving behaviors is currently under review at EAAI 2026. This work represents a significant step forward in using AI to understand and enhance educational processes.
+Our innovative approach to modeling handwriting trajectories has been recognized with acceptance at AIED 2025, while our deeper analysis of problem-solving behaviors is currently accepted at AIED 2026 and to appear.
 
 <!--more-->

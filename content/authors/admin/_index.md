@@ -11,7 +11,7 @@ last_name: Qiqi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌱
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,12 +39,12 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/rhyscmyq
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: www.linkedin.com/in/qiqi-duan-vv
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-9234-8269
 
 interests:
   - Artificial Intelligence
@@ -53,11 +53,13 @@ interests:
 
 education:
   - area: M.Phil. in Data Science and Analytics
-    institution:  The Hong Kong University of Science and Technology(Guang Zhou) 
+    institution: The Hong Kong University of Science and Technology (Guangzhou)
     date_start: 2024-08-29
-    date_end: 2026-07-01
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [ PROF. NAN TANG](https://nantang.github.io/) and [ Assistant Professor. YUYU LUO](https://luoyuyu.vip/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    date_end: 2026-07-15
+    summary: |
+      Advised by Prof. [Nan Tang](https://nantang.github.io/) and Prof. [Yuyu Luo](https://luoyuyu.vip/).
+      Lab: [HKUST(GZ)-DIAL](https://github.com/HKUSTDial).
+      I’m interested in LLMs/agents and Human-AI interaction, especially how to build reliable, data-driven systems and evaluations.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -87,8 +89,7 @@ work:
     summary: |
       Responsibilities include:
       - Conducted data analysis and prepared reports, aligning with business strategies to drive decision-making.
-      - Conducted data analysis to align business strategies and improve decision-making, contributing to the development of
-        user-friendly business intelligence dashboards.
+      - Conducted data analysis to align business strategies and improve decision-making, contributing to the development of user-friendly business intelligence dashboards.
   - position:  Financial Accountant, Product Manager
     company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
