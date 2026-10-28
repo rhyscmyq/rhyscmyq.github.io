@@ -2,6 +2,11 @@
 title: "TRACE: Human-AI Collaborative System for Narrative Consistency"
 authors:
   - admin
+  - Wang, Chen
+  - Luo, Yuxiang
+  - Tang, Nan
+  - Shen, Leixian
+  - Luo, Yuyu
 date: "2026-04-13T00:00:00Z"
 
 # Publication type.
@@ -46,10 +51,3 @@ image:
 projects:
   - 2026TRACE
 ---
-
-**Status**: Accepted (to appear).
-
-**ACM Conference**: CHI EA ’26 (April 13–17, 2026), Barcelona, Spain  
-**DOI**: `10.1145/3772363.3798905`  
-**ISBN**: `979-8-4007-2281-3/2026/04`  
-**Copyright**: CC BY (ACM)
