@@ -125,4 +125,4 @@ work:
 
 ## About Me
 
-I'm Qiqi Duan, a Ph.D. student in Information at the University of Arizona and a research assistant at the HARE Lab. Before beginning my Ph.D., I worked as a data scientist and studied data science and systems engineering. These experiences have shaped my interdisciplinary perspective on designing AI systems for real-world use.
+I'm Qiqi Duan, a Ph.D. student in Information at the University of Arizona and a research assistant at the HARE Lab. I recently completed an M.Phil. in Data Science and Analytics at The Hong Kong University of Science and Technology (Guangzhou), where I worked on LLM agents and their evaluation across education and finance. My background also includes industry experience as a data scientist and earlier training in systems engineering and accounting.

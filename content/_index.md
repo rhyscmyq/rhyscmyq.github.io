@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on **human-centered AI**, particularly how AI agents interact with people and how we can design and evaluate these systems to support human judgment, agency, and control.
+        My research focuses on **human-centered AI**. I am particularly interested in what human-AI co-creation means in the era of LLMs and agents, and in the future beyond it. Through this lens, I aim to answer a broader question: how can humans genuinely benefit from AI intelligence in the tasks that matter to them?
 
-        Before starting my PhD, I worked on **TRACE**, a system that helps long-form writers identify narrative inconsistencies while keeping authors actively involved in the writing process. I also developed and evaluated LLM-based agents in FinTech, focusing on making trading and portfolio decisions traceable to supporting evidence. These experiences shaped my interest in understanding not only what AI systems can do, but also how they behave, interact with, and influence the people who use them.
+        My previous work includes two main projects that I led: **TRACE**, which explores AI support for narrative-consistency checking in long-form writing, and **TradeLens**, which examines the relationship between the operating costs and financial outcomes of agentic trading systems.
+
+        I am currently exploring how AI-generated feedback shapes people's perceptions, emotional responses, judgment, decision-making, and sense of agency in collaborative tasks. More broadly, I evaluate human-AI interactions not only by the quality of AI responses, but also by what those interactions enable people to do and how they affect people's experiences.
 
         I'm always open to collaborations and research discussions. Feel free to reach out! 😃
     design:
@@ -61,6 +63,8 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      sort_by: Weight
+      sort_ascending: true
     design:
       view: citation
   # - block: collection
