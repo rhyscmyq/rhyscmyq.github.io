@@ -15,8 +15,8 @@ date: "2026-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted"
-publication_short: "To appear"
+publication: "Springer"
+publication_short: "AIED 2026"
 
 abstract: |
   Process-oriented assessment is essential for adaptive learning, yet most educational systems still rely on outcome-based signals like correctness, offering limited insight into how students regulate their problem-solving. This limits our ability to diagnose breakdowns in metacognitive monitoring and strategic planning, and provide targeted support. To bridge this gap, we introduce a stage-aware assessment framework that transforms raw handwriting trajectories from digital pens into a multi-level behavioral representation. Leveraging Multimodal Large Language Models (MLLMs) as an interpretive layer, the framework maps low-level pen strokes to functional cognitive operations and situates them within a theory-grounded problem-solving process. Analyzing real-world exam instances from a semester-long dataset, we derive stage-aware features that characterize regulatory events, question-level dynamics, and stable behavioral profiles. Our analysis reveals distinct learner profiles, including students who engage in structured planning and revision, and those who proceed impulsively with minimal intermediate reasoning. We further uncover a strategy-style mismatch: some students invest substantial effort without matching gains, underscoring the limits of effort-based indicators and the need for process-aware assessment.
@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: Code
-  url: https://github.com/DobbySquirrel/Beyond_Correctness
+- name: DOI
+  url: https://doi.org/10.1007/978-3-032-29763-1_15
 url_pdf: ''
 url_code: 'https://github.com/DobbySquirrel/Beyond_Correctness'
 url_dataset: ''
@@ -49,6 +49,6 @@ image:
 
 # Associated Projects
 projects:
-  - AI4Edu
+  - 2025AI4Edu
 ---
 

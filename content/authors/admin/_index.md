@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiqi Duan 段奇琪
+title: Qiqi Duan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,12 +20,13 @@ superuser: true
 highlight_name: false
 
 # Role/position/tagline
-role: student/engineer
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HKUST(GZ)
-    url: https://www.hkust-gz.edu.cn/zh/
+  - name: UoA
+    url: https://www.arizona.edu/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,8 +34,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:duanqiqi1114@163.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
@@ -47,11 +46,20 @@ profiles:
     url: https://orcid.org/0009-0009-9234-8269
 
 interests:
-  - Artificial Intelligence
-  - LLM
-  - Agent
+  - Human-Centered AI
+  - LLM Agents
+  - Human-AI Interaction
 
 education:
+  - area: Ph.D. in Information
+    institution: The University of Arizona
+    date_start: 2026-08-24
+    date_end: ''
+    summary: |
+      I am a research assistant at the HARE Lab (Human-AI Labradory), working with Dr. [John Chen](https://civitas-john.github.io/) and advised by Dr. [Xuan Lu](https://luxuan09.github.io/). My research interests lie in large language models (LLMs), agents, and human-centered AI. I am particularly interested in what human-AI co-creation means in the era of LLMs and agents, and in the future beyond it. Through this lens, I aim to answer a broader question: how can humans genuinely benefit from AI intelligence in human tasks?
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: M.Phil. in Data Science and Analytics
     institution: The Hong Kong University of Science and Technology (Guangzhou)
     date_start: 2024-08-29
@@ -59,7 +67,7 @@ education:
     summary: |
       Advised by Prof. [Nan Tang](https://nantang.github.io/) and Prof. [Yuyu Luo](https://luoyuyu.vip/).
       Lab: [HKUST(GZ)-DIAL](https://github.com/HKUSTDial).
-      I’m interested in LLMs/agents and Human-AI interaction, especially how to build reliable, data-driven systems and evaluations.
+      I worked on LLMs/agents and Human-AI interaction, especially how to build reliable, data-driven systems and evaluations.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -80,78 +88,34 @@ education:
       Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra(Barcelona, Spain).
 
 work:
-  - position:  Data Scientist
+  - position: Data Scientist
     company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
     date_end: 2024-07-01
     summary: |
-      Responsibilities include:
-      - Conducted data analysis and prepared reports, aligning with business strategies to drive decision-making.
-      - Conducted data analysis to align business strategies and improve decision-making, contributing to the development of user-friendly business intelligence dashboards.
-  - position:  Financial Accountant, Product Manager
+      - Analyzed business data to inform strategic decisions and built user-friendly BI dashboards for stakeholders.
+  - position: Financial Accountant, Product Manager
     company_name: Du Xiaoman Financial(度小满金融)
     company_url: ''
     company_logo: ''
-    date_start: 2022-08-01
-    date_end: 2019-05-01
+    date_start: 2019-05-01
+    date_end: 2022-08-01
     summary: |
-      Responsibilities include:
       - Independently completed monthly cost accounting and financial analysis.
       - Led SOP development for corporate payments, improving efficiency by 30%.
-      - Assisted in designing Excel templates that simplified daily accounting workflows, saving 50% of inspection time.
-      - Deployed a new financial system, enhancing cross-functional collaboration.
-  - position:  Accountant
-    company_name:  NXP Semiconductors Inc.
+      - Deployed a new financial system for the accounting team.
+  - position: Accountant
+    company_name: NXP Semiconductors Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2019-04-01
-    date_end: 2016-07-01
+    date_start: 2016-07-01
+    date_end: 2019-04-01
     summary: |
-      Responsibilities include:
       - Managed asset data, reducing tracking errors by 10%.
-      - Identified budgeting improvements, increasing forecasting accuracy.
+      - Identified budgeting improvements that increased forecasting accuracy.
       - Assisted in designing Excel templates that simplified daily accounting workflows, saving 50% of inspection time.
-      - Deployed a new financial system, enhancing cross-functional collaboration.
-  
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 80
-  - name: Chinese
-    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -161,4 +125,4 @@ languages:
 
 ## About Me
 
-I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of the amazing Professors Nan TANG and Yuyu LUO. With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
+I'm Qiqi Duan, a Ph.D. student in Information at the University of Arizona and a research assistant at the HARE Lab. Before beginning my Ph.D., I worked as a data scientist and studied data science and systems engineering. These experiences have shaped my interdisciplinary perspective on designing AI systems for real-world use.

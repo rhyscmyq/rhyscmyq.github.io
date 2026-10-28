@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-- name: arXiv
-  url: https://arxiv.org/pdf/2505.11065
+- name: Paper
+  url: https://neurips.cc/virtual/2025/poster/121642
 url_pdf: ''
 url_code: 'https://github.com/HKUSTDial/DeepFund'
 url_dataset: ''
@@ -51,5 +51,5 @@ image:
 
 # Associated Projects
 projects:
-  - DeepFund
+  - 2025DeepFund
 ---

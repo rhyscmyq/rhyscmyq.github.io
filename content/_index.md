@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interest lies in the application of AI in various domains, including financial investment and reading/writing assistance. I explore the potential of agent-based systems to enhance decision-making in financial markets and improve the efficiency of reading and writing processes through interactive and intelligent agents. I aim to bridge the gap between AI technology and practical, real-world applications, with an emphasis on empowering users and improving outcomes across different sectors.
-        
-        Please reach out to collaborate 😃
+        My research focuses on **human-centered AI**, particularly how AI agents interact with people and how we can design and evaluate these systems to support human judgment, agency, and control.
+
+        Before starting my PhD, I worked on **TRACE**, a system that helps long-form writers identify narrative inconsistencies while keeping authors actively involved in the writing process. I also developed and evaluated LLM-based agents in FinTech, focusing on making trading and portfolio decisions traceable to supporting evidence. These experiences shaped my interest in understanding not only what AI systems can do, but also how they behave, interact with, and influence the people who use them.
+
+        I'm always open to collaborations and research discussions. Feel free to reach out! 😃
     design:
       columns: '1'
   # - block: collection

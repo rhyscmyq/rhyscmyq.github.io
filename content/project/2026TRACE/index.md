@@ -9,7 +9,7 @@ tags:
   - AI Collaboration
 links:
   - name: Publication (CHI EA 2026)
-    url: '/publication/trace-ea'
+    url: 'https://doi.org/10.1145/3772363.3798905'
     icon: file-lines
 ---
 

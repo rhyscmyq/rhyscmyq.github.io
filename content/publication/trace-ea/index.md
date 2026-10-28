@@ -44,7 +44,7 @@ image:
   preview_only: false
 
 projects:
-  - TRACE
+  - 2026TRACE
 ---
 
 **Status**: Accepted (to appear).

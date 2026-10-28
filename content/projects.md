@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here are some of the projects I’ve created and contributed to over the years, reflecting my passion for exploring and designing new things.
+      text: Selected projects spanning human-centered AI, LLM agents, education, writing support, model evaluation, and financial systems.
       filters:
         folders:
           - project

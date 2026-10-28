@@ -9,7 +9,7 @@ tags:
   - Investment
 links:
   - name: Paper
-    url: '/publication/deepfund'
+    url: 'https://neurips.cc/virtual/2025/poster/121642'
     icon: file-lines
   - name: Code
     url: 'https://github.com/HKUSTDial/DeepFund.git'

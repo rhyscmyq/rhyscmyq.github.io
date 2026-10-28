@@ -15,14 +15,4 @@ sections:
     design:
       # Hugo date format
       date_format: 'January 2006'
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      file: experience/skills
-    design:
-      show_skill_percentage: false
-  - block: languages
-    content:
-      title: Languages
-      file: experience/languages
 ---

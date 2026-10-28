@@ -48,5 +48,5 @@ image:
 
 # Associated Projects
 projects:
-  - AI4Edu
+  - 2025AI4Edu
 ---
